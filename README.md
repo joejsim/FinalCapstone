@@ -1,4 +1,4 @@
-#Sentiment Analysis
+#Sentiment Analysis#
 
 This project was about creating a programme that would read a review of an Amazon product and determine whether the review was positive or negative. 
 
