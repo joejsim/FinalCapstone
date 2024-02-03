@@ -1,7 +1,7 @@
 import math
 
 # Give the user the options then ask them to select which one they want
-
+print("Hello. You can use this programme to work out the amount of interest you will earn on an investement or how much you will pay on a home loan. Follow the instructions below.")
 print("investment - to calculate the amount of interest you'll earn on your investment")
 print("bond       - to calculate the amount you'll have to pay on a home loan")
 
